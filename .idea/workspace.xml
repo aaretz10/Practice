@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="59e79984-3a9e-4ab5-ba4d-00ff94bc92c0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +21,10 @@
   </component>
   <component name="JupyterTrust" id="bdb85f55-1bb8-40ad-bd9b-6ec0160d6cbe" />
   <component name="ProjectId" id="2EdhygWct0aYCnEsWH3ggtXkjEZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -49,10 +62,22 @@
       <option name="presentableId" value="Default" />
       <updated>1662931625884</updated>
       <workItem from="1662931627081" duration="108000" />
+      <workItem from="1662931862706" duration="119000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
